@@ -1,0 +1,6 @@
+program/program.pdf
+*.out
+*.log
+*.bcf
+*.aux
+*program.run.xml
